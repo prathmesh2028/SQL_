@@ -10,9 +10,9 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "Prathmesh's connection",
-            "database": "Prathmesh's server",
-            "username": "root"
+            "name": "local-mysql",
+            "username": "root",
+            "database": "mysql"
         }
     ]
 }
